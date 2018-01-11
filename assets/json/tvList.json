@@ -1,0 +1,842 @@
+[
+    {
+        "name": "New York",
+        "value": "7074750 "
+    },
+    {
+        "name": "Los Angeles",
+        "value": "5318630 "
+    },
+    {
+        "name": "Chicago",
+        "value": "3299720 "
+    },
+    {
+        "name": "Philadelphia",
+        "value": "2869580 "
+    },
+    {
+        "name": "None",
+        "value": "2648490 "
+    },
+    {
+        "name": "None",
+        "value": "2492170 "
+    },
+    {
+        "name": "Houston",
+        "value": "2467140 "
+    },
+    {
+        "name": "None",
+        "value": "2451640 "
+    },
+    {
+        "name": "Atlanta",
+        "value": "2449460 "
+    },
+    {
+        "name": "None",
+        "value": "2425440 "
+    },
+    {
+        "name": "None",
+        "value": "1919930 "
+    },
+    {
+        "name": "None",
+        "value": "1880750 "
+    },
+    {
+        "name": "None",
+        "value": "1879760 "
+    },
+    {
+        "name": "Detroit",
+        "value": "1779380 "
+    },
+    {
+        "name": "None",
+        "value": "1730430 "
+    },
+    {
+        "name": "None",
+        "value": "1677850 "
+    },
+    {
+        "name": "Denver",
+        "value": "1589560 "
+    },
+    {
+        "name": "None",
+        "value": "1531130 "
+    },
+    {
+        "name": "None",
+        "value": "1447310 "
+    },
+    {
+        "name": "None",
+        "value": "1412940 "
+    },
+    {
+        "name": "St. Louis",
+        "value": "1189890 "
+    },
+    {
+        "name": "Portland",
+        "value": "1180980 "
+    },
+    {
+        "name": "Charlotte",
+        "value": "1145270 "
+    },
+    {
+        "name": "Pittsburgh",
+        "value": "1141950 "
+    },
+    {
+        "name": "None",
+        "value": "1133160 "
+    },
+    {
+        "name": "Baltimore",
+        "value": "1108010 "
+    },
+    {
+        "name": "Nashville",
+        "value": "1030650 "
+    },
+    {
+        "name": "Indianapolis",
+        "value": "1086310 "
+    },
+    {
+        "name": "San Diego",
+        "value": "1002770 "
+    },
+    {
+        "name": "Salt Lake City",
+        "value": "948840 "
+    },
+    {
+        "name": "San Antonio",
+        "value": "924480 "
+    },
+    {
+        "name": "None",
+        "value": "921500 "
+    },
+    {
+        "name": "Kansas City",
+        "value": "901020 "
+    },
+    {
+        "name": "Columbus",
+        "value": "896980 "
+    },
+    {
+        "name": "Cincinnati",
+        "value": "871970 "
+    },
+    {
+        "name": "Milwaukee",
+        "value": "868500 "
+    },
+    {
+        "name": "None",
+        "value": "829110 "
+    },
+    {
+        "name": "None",
+        "value": "809190 "
+    },
+    {
+        "name": "Austin",
+        "value": "791480 "
+    },
+    {
+        "name": "Las Vegas",
+        "value": "757400 "
+    },
+    {
+        "name": "Oklahoma City",
+        "value": "705840 "
+    },
+    {
+        "name": "Jacksonville",
+        "value": "700890 "
+    },
+    {
+        "name": "None",
+        "value": "689950 "
+    },
+    {
+        "name": "None",
+        "value": "687180 "
+    },
+    {
+        "name": "None",
+        "value": "682460 "
+    },
+    {
+        "name": "None",
+        "value": "674930 "
+    },
+    {
+        "name": "None",
+        "value": "673820 "
+    },
+    {
+        "name": "None",
+        "value": "672650 "
+    },
+    {
+        "name": "Louisville",
+        "value": "657030 "
+    },
+    {
+        "name": "Memphis",
+        "value": "649360 "
+    },
+    {
+        "name": "New Orleans",
+        "value": "638020 "
+    },
+    {
+        "name": "None",
+        "value": "597990 "
+    },
+    {
+        "name": "Buffalo",
+        "value": "592750 "
+    },
+    {
+        "name": "None",
+        "value": "574610 "
+    },
+    {
+        "name": "None",
+        "value": "566930 "
+    },
+    {
+        "name": "None",
+        "value": "549760 "
+    },
+    {
+        "name": "None",
+        "value": "523450 "
+    },
+    {
+        "name": "None",
+        "value": "522530 "
+    },
+    {
+        "name": "None",
+        "value": "522260 "
+    },
+    {
+        "name": "None",
+        "value": "521820 "
+    },
+    {
+        "name": "Knoxville",
+        "value": "516920 "
+    },
+    {
+        "name": "Tulsa",
+        "value": "516540 "
+    },
+    {
+        "name": "Lexington",
+        "value": "459300 "
+    },
+    {
+        "name": "Dayton",
+        "value": "453960 "
+    },
+    {
+        "name": "None",
+        "value": "433330 "
+    },
+    {
+        "name": "Honolulu",
+        "value": "419540 "
+    },
+    {
+        "name": "None",
+        "value": "416400 "
+    },
+    {
+        "name": "None",
+        "value": "416020 "
+    },
+    {
+        "name": "None",
+        "value": "415890 "
+    },
+    {
+        "name": "None",
+        "value": "414620 "
+    },
+    {
+        "name": "None",
+        "value": "411210 "
+    },
+    {
+        "name": "Spokane",
+        "value": "410900 "
+    },
+    {
+        "name": "None",
+        "value": "406310 "
+    },
+    {
+        "name": "Omaha",
+        "value": "399010 "
+    },
+    {
+        "name": "Springfield",
+        "value": "389750 "
+    },
+    {
+        "name": "Rochester",
+        "value": "384380 "
+    },
+    {
+        "name": "Columbia",
+        "value": "384190 "
+    },
+    {
+        "name": "Toledo",
+        "value": "379120 "
+    },
+    {
+        "name": "None",
+        "value": "367720 "
+    },
+    {
+        "name": "None",
+        "value": "367510 "
+    },
+    {
+        "name": "Madison",
+        "value": "366690 "
+    },
+    {
+        "name": "None",
+        "value": "354790 "
+    },
+    {
+        "name": "Shreveport",
+        "value": "352540 "
+    },
+    {
+        "name": "None",
+        "value": "351810 "
+    },
+    {
+        "name": "Syracuse",
+        "value": "350100 "
+    },
+    {
+        "name": "None",
+        "value": "346750 "
+    },
+    {
+        "name": "None",
+        "value": "344250 "
+    },
+    {
+        "name": "None",
+        "value": "344180 "
+    },
+    {
+        "name": "Chattanooga",
+        "value": "336580 "
+    },
+    {
+        "name": "Savannah",
+        "value": "328860 "
+    },
+    {
+        "name": "None",
+        "value": "325780 "
+    },
+    {
+        "name": "Charleston",
+        "value": "320980 "
+    },
+    {
+        "name": "None",
+        "value": "318260 "
+    },
+    {
+        "name": "Baton Rouge",
+        "value": "314970 "
+    },
+    {
+        "name": "Jackson",
+        "value": "306410 "
+    },
+    {
+        "name": "None",
+        "value": "297680 "
+    },
+    {
+        "name": "None",
+        "value": "294020 "
+    },
+    {
+        "name": "None",
+        "value": "292160 "
+    },
+    {
+        "name": "Tri-Cities",
+        "value": "290530 "
+    },
+    {
+        "name": "None",
+        "value": "285650 "
+    },
+    {
+        "name": "None",
+        "value": "281550 "
+    },
+    {
+        "name": "None",
+        "value": "277950 "
+    },
+    {
+        "name": "Evansville",
+        "value": "264890 "
+    },
+    {
+        "name": "Boise",
+        "value": "264300 "
+    },
+    {
+        "name": "Reno",
+        "value": "263990 "
+    },
+    {
+        "name": "None",
+        "value": "263110 "
+    },
+    {
+        "name": "None",
+        "value": "262020 "
+    },
+    {
+        "name": "None",
+        "value": "257570 "
+    },
+    {
+        "name": "None",
+        "value": "253230 "
+    },
+    {
+        "name": "None",
+        "value": "252600 "
+    },
+    {
+        "name": "Fort Wayne",
+        "value": "249130 "
+    },
+    {
+        "name": "None",
+        "value": "249090 "
+    },
+    {
+        "name": "None",
+        "value": "240560 "
+    },
+    {
+        "name": "None",
+        "value": "239760 "
+    },
+    {
+        "name": "Lansing",
+        "value": "238990 "
+    },
+    {
+        "name": "None",
+        "value": "237580 "
+    },
+    {
+        "name": "Youngstown",
+        "value": "234120 "
+    },
+    {
+        "name": "None",
+        "value": "233370 "
+    },
+    {
+        "name": "Eugene",
+        "value": "231570 "
+    },
+    {
+        "name": "Macon",
+        "value": "222970 "
+    },
+    {
+        "name": "Lafayette",
+        "value": "222450 "
+    },
+    {
+        "name": "None",
+        "value": "222210 "
+    },
+    {
+        "name": "None",
+        "value": "222190 "
+    },
+    {
+        "name": "None",
+        "value": "218740 "
+    },
+    {
+        "name": "None",
+        "value": "217560 "
+    },
+    {
+        "name": "Bakersfield",
+        "value": "212180 "
+    },
+    {
+        "name": "None",
+        "value": "206520 "
+    },
+    {
+        "name": "Corpus Christi",
+        "value": "198820 "
+    },
+    {
+        "name": "None",
+        "value": "196160 "
+    },
+    {
+        "name": "Wilmington",
+        "value": "191440 "
+    },
+    {
+        "name": "Amarillo",
+        "value": "179920 "
+    },
+    {
+        "name": "None",
+        "value": "179370 "
+    },
+    {
+        "name": "None",
+        "value": "172520 "
+    },
+    {
+        "name": "None",
+        "value": "166030 "
+    },
+    {
+        "name": "None",
+        "value": "163790 "
+    },
+    {
+        "name": "None",
+        "value": "163600 "
+    },
+    {
+        "name": "None",
+        "value": "161950 "
+    },
+    {
+        "name": "Rockford",
+        "value": "161530 "
+    },
+    {
+        "name": "Topeka",
+        "value": "161010 "
+    },
+    {
+        "name": "None",
+        "value": "157070 "
+    },
+    {
+        "name": "None",
+        "value": "156240 "
+    },
+    {
+        "name": "None",
+        "value": "156020 "
+    },
+    {
+        "name": "Salisbury",
+        "value": "155240 "
+    },
+    {
+        "name": "None",
+        "value": "153830 "
+    },
+    {
+        "name": "Lubbock",
+        "value": "153370 "
+    },
+    {
+        "name": "Palm Springs",
+        "value": "152840 "
+    },
+    {
+        "name": "Anchorage",
+        "value": "149120 "
+    },
+    {
+        "name": "Sioux City",
+        "value": "144180 "
+    },
+    {
+        "name": "None",
+        "value": "142990 "
+    },
+    {
+        "name": "Erie",
+        "value": "141020 "
+    },
+    {
+        "name": "Panama City",
+        "value": "137830 "
+    },
+    {
+        "name": "None",
+        "value": "136740 "
+    },
+    {
+        "name": "None",
+        "value": "134990 "
+    },
+    {
+        "name": "Albany",
+        "value": "134510 "
+    },
+    {
+        "name": "Terre Haute",
+        "value": "127470 "
+    },
+    {
+        "name": "Bangor",
+        "value": "125970 "
+    },
+    {
+        "name": "None",
+        "value": "124130 "
+    },
+    {
+        "name": "None",
+        "value": "121320 "
+    },
+    {
+        "name": "Gainesville",
+        "value": "121060 "
+    },
+    {
+        "name": "None",
+        "value": "120100 "
+    },
+    {
+        "name": "Binghamton",
+        "value": "120060 "
+    },
+    {
+        "name": "None",
+        "value": "119590 "
+    },
+    {
+        "name": "None",
+        "value": "118520 "
+    },
+    {
+        "name": "Missoula",
+        "value": "113110 "
+    },
+    {
+        "name": "None",
+        "value": "107760 "
+    },
+    {
+        "name": "None",
+        "value": "105690 "
+    },
+    {
+        "name": "Billings",
+        "value": "105470 "
+    },
+    {
+        "name": "None",
+        "value": "102840 "
+    },
+    {
+        "name": "None",
+        "value": "97020 "
+    },
+    {
+        "name": "Rapid City",
+        "value": "95320 "
+    },
+    {
+        "name": "Utica",
+        "value": "93930 "
+    },
+    {
+        "name": "None",
+        "value": "93920 "
+    },
+    {
+        "name": "Dothan",
+        "value": "92300 "
+    },
+    {
+        "name": "Lake Charles",
+        "value": "91490 "
+    },
+    {
+        "name": "Harrisonburg",
+        "value": "86700 "
+    },
+    {
+        "name": "None",
+        "value": "86230 "
+    },
+    {
+        "name": "Jackson",
+        "value": "85540 "
+    },
+    {
+        "name": "Alexandria",
+        "value": "82270 "
+    },
+    {
+        "name": "Watertown",
+        "value": "81630 "
+    },
+    {
+        "name": "Marquette",
+        "value": "78000 "
+    },
+    {
+        "name": "Bowling Green",
+        "value": "77360 "
+    },
+    {
+        "name": "Jonesboro",
+        "value": "76860 "
+    },
+    {
+        "name": "Charlottesville",
+        "value": "72320 "
+    },
+    {
+        "name": "Laredo",
+        "value": "70980 "
+    },
+    {
+        "name": "None",
+        "value": "69060 "
+    },
+    {
+        "name": "Bend",
+        "value": "67170 "
+    },
+    {
+        "name": "None",
+        "value": "67150 "
+    },
+    {
+        "name": "Lafayette",
+        "value": "66710 "
+    },
+    {
+        "name": "Lima",
+        "value": "62840 "
+    },
+    {
+        "name": "Twin Falls",
+        "value": "62360 "
+    },
+    {
+        "name": "Meridian",
+        "value": "61460 "
+    },
+    {
+        "name": "Great Falls",
+        "value": "60220 "
+    },
+    {
+        "name": "None",
+        "value": "58410 "
+    },
+    {
+        "name": "Parkersburg",
+        "value": "56980 "
+    },
+    {
+        "name": "Eureka",
+        "value": "56660 "
+    },
+    {
+        "name": "San Angelo",
+        "value": "54100 "
+    },
+    {
+        "name": "None",
+        "value": "53720 "
+    },
+    {
+        "name": "None",
+        "value": "52190 "
+    },
+    {
+        "name": "Mankato",
+        "value": "49610 "
+    },
+    {
+        "name": "None",
+        "value": "42990 "
+    },
+    {
+        "name": "St. Joseph",
+        "value": "42230 "
+    },
+    {
+        "name": "Fairbanks",
+        "value": "35180 "
+    },
+    {
+        "name": "Victoria",
+        "value": "31380 "
+    },
+    {
+        "name": "Zanesville",
+        "value": "30550 "
+    },
+    {
+        "name": "Helena",
+        "value": "27430 "
+    },
+    {
+        "name": "Presque Isle",
+        "value": "25480 "
+    },
+    {
+        "name": "Juneau",
+        "value": "24390 "
+    },
+    {
+        "name": "Alpena",
+        "value": "15360 "
+    },
+    {
+        "name": "North Platte",
+        "value": "13640 "
+    },
+    {
+        "name": "Glendive",
+        "value": "4030 "
+    }
+]
